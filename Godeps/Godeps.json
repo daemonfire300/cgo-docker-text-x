@@ -1,0 +1,17 @@
+{
+	"ImportPath": "github.com/daemonfire300/cgo-docker-text-x",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/tj/go-debug",
+			"Comment": "v2.0.0",
+			"Rev": "ff4a55a20a86994118644bbddc6a216da193cc13"
+		},
+		{
+			"ImportPath": "gopkg.in/h2non/bimg.v1",
+			"Comment": "v1.0.7",
+			"Rev": "9bb3ae10c5ce30e72f7ac0834368536fc095d6a7"
+		}
+	]
+}
